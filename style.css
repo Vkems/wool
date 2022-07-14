@@ -1,0 +1,160 @@
+
+.page {
+    max-width: 1000px;
+    margin: 42px auto 60px auto;
+    font-family: 'Arsenal', sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 67px;
+}
+
+.logo{/* ВЯЗАНЬ */
+    font-size: 46px;
+    line-height: 58px;
+    color: #5E2E2E;
+}
+
+.header__menu {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    font-weight: 700;
+    padding-left: 0px;
+}
+
+.header__menu a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.icon {
+    gap: 5px;
+    align-items:center;
+}
+
+.menu_item {
+    padding: 10px;
+}
+
+.menu_item_focus {
+    padding: 10px;
+    background-color: #FFEFEF;
+}
+
+.title_page {
+    font-family: 'Belleza', sans-serif;
+    font-size: 140px;
+    line-height: 161px;
+    color: #000000;
+    font-weight: 400;
+    margin: -4px 0 0 0;
+}
+
+.title_tag {
+    font-family: 'Belleza', sans-serif;
+    font-size: 17px;
+    line-height: 110.4%;
+    color: #000000;
+    margin: 78px 0 0 0;
+
+}
+
+.galery {
+    margin: 19px auto 0px -64px;
+}
+
+.img {
+    margin: -4px;
+}
+
+.text {
+    margin: 133px auto 0 148px;
+    font-size: 21px;
+    line-height: 140%;
+    width: 574px;
+}
+
+.button {
+    font-family: 'Arsenal', sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 13px 25px;
+    gap: 10px;
+
+    background: #5D2E2E;
+    border-radius: 34px;
+    color: #FFEFEF;
+    font-size: 20px;
+    width: 194px;
+    height: 54px;
+
+    margin: 53px auto 134px 147px;
+
+}
+
+footer {
+    display: flex;
+    font-size: 14px;
+    line-height: 18px;
+
+}
+
+.footer_menu {
+    height: 220px;
+    display: flex;
+    padding: 45px auto 53px auto;
+    width: 878px;
+
+}
+
+.footer__column_bold {
+    width: 81px;
+    display: flex;
+    gap: 10px;
+    font-weight: 700;
+    line-height: 180%;
+
+}
+
+li {
+    list-style: none;
+}
+
+.list {
+    padding: 0px 61px 0px 0px;
+}
+
+.footer__column_normal {
+    display: flex;
+    gap: 10px;
+    width: 86px;
+    font-weight: 400;
+    line-height: 180%;
+}
+
+.footer__ikon {
+    margin: 15px 45px 0px 35px;
+
+}
+
+.footer__smm {
+    margin: 2px 176px -1px 23px;
+    
+
+}
+
+.footer__adress {
+    width: 140px;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: right;
+}
+
+font-family: 'Arya', sans-serif;
+
+
+
